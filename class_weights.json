@@ -1,0 +1,12 @@
+{
+    "strategy": "square_root_inverse_frequency",
+    "loss_function": "weighted_cross_entropy",
+    "reduction": "mean",
+    "weights": {
+        "Bored": 3.0794479846954346,
+        "Confident": 0.3509356677532196,
+        "Confused": 0.7985520958900452,
+        "Curious": 0.4294469952583313,
+        "Frustrated": 0.3416171371936798
+    }
+}

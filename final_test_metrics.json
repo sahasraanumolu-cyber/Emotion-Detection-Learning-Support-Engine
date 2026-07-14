@@ -1,0 +1,16 @@
+{
+    "test_samples": 911,
+    "accuracy": 0.8408342480790341,
+    "macro_precision": 0.8491595901496748,
+    "macro_recall": 0.8304050677060758,
+    "macro_f1": 0.8359734364574015,
+    "weighted_precision": 0.8441916611499116,
+    "weighted_recall": 0.8408342480790341,
+    "weighted_f1": 0.8416275281632482,
+    "correct_predictions": 766,
+    "incorrect_predictions": 145,
+    "error_rate": 0.15916575192096596,
+    "best_validation_macro_f1": 0.8231448686583566,
+    "best_model_checkpoint": "/kaggle/working/epic2_five_class_training/checkpoint-1095",
+    "test_set_status": "FINAL UNTOUCHED EVALUATION COMPLETED"
+}

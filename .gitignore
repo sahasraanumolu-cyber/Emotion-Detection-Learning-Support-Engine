@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+emotion_response_examples.csv
+# AI Models
+*.keras
+*.safetensors
+*.bin
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
